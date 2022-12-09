@@ -6,4 +6,4 @@
 3. Create Virtual Environment in Windows. Using command `<python_path>\py -m venv sshbruteforcer_env`
 4. Run command `sshbruteforcer_env\Scripts\activate`
 5. Run the command `pip install -r requirements.txt` to install all the packages required in your virtual environment.
-6. Run `py main.py` this will run the program.
+6. Run `python main.py` this will run the program.
